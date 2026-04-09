@@ -13,6 +13,7 @@ My projects:
 - Telegram bot for document translation
 - Telegram bot for searching key words on Binanace platform
 - Desktop application of schedule calendar for private tutors
+- Simulator of a basic online store with authentication, shopping cart, and order management functionality
 
 Author of scientific publication:
 “PROGRAMMING NPC BEHAVIOR IN GAMES USING ARTIFICIAL INTELLIGENCE”
